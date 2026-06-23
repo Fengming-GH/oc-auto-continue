@@ -1,6 +1,6 @@
 # @fengming-gh/oc-auto-continue
 
-OpenCode auto-resume plugin — keep your AI working continuously.
+OpenCode auto-resume plugin — persistent AI workflow.
 
 ## Pain Points
 

@@ -1,6 +1,6 @@
 # @fengming-gh/oc-auto-continue
 
-OpenCode 自动续命插件 — 让 AI 持续工作。
+OpenCode 自动续命插件 — 让 AI 工作持久化。
 
 ## 痛点描述
 
